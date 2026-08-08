@@ -3,8 +3,7 @@ Análise interativa de Burnout em estudantes de Tecnologia em Radiologia
 
 Dashboard desenvolvido em Power BI a partir dos dados de uma pesquisa científica publicada sobre a Síndrome de Burnout em estudantes de graduação de Tecnologia em Radiologia.
 
-
-
+![Dashboard Burnout Insights](./dashboard.png)
 
 📊 Sobre o projeto
 
@@ -51,12 +50,14 @@ Avaliação da Síndrome de Burnout em discentes de graduação de Tecnologia em
 
 Publicado em 2022.
 
-📄 Acessar artigo científico
+📄 [Acessar artigo científico](./artigo-burnout-radiologia.pdf)
 
-📁 Arquivos do projeto
-📊 Dashboard Power BI
-🖼️ Imagem do dashboard
-📚 Artigo científico
+## 📁 Arquivos do projeto
+
+- 📊 [Dashboard Power BI](./Burnout-Insights.pbix)
+- 🖼️ [Imagem do dashboard](./dashboard.png)
+- 📚 [Artigo científico](./artigo-burnout-radiologia.pdf)
+
 👤 Autor
 
 Gustavo Evangelista
