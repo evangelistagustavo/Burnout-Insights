@@ -44,6 +44,12 @@ A pesquisa avaliou a presença de sinais relacionados à Síndrome de Burnout em
 
 O Power BI foi utilizado neste projeto como ferramenta de exploração, análise e visualização interativa dos dados.
 
+🔎 Principais insights
+
+- A pontuação média geral observada na pesquisa foi de 50,41 pontos.
+- As maiores médias foram observadas nos semestres mais avançados.
+- Estudantes em estágio apresentaram médias superiores aos estudantes que estavam apenas em aulas.
+
 📚 Referência
 
 Avaliação da Síndrome de Burnout em discentes de graduação de Tecnologia em Radiologia de uma faculdade de São Paulo.
@@ -51,6 +57,17 @@ Avaliação da Síndrome de Burnout em discentes de graduação de Tecnologia em
 Publicado em 2022.
 
 📄 [Acessar artigo científico](./artigo-burnout-radiologia.pdf)
+
+💡 Aprendizados
+
+Este projeto permitiu aplicar conceitos de:
+
+- Modelagem e tratamento de dados;
+- Criação de medidas DAX;
+- Construção de indicadores;
+- Visualização de dados;
+- Análise exploratória;
+- Comunicação de resultados.
 
 ## 📁 Arquivos do projeto
 
