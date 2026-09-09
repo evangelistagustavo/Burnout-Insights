@@ -24,6 +24,7 @@ Power BI
 DAX
 Data Analysis
 Data Visualization
+
 📈 Análises apresentadas
 
 O dashboard permite explorar:
@@ -34,6 +35,7 @@ Distribuição dos participantes por sexo;
 Pontuação de Burnout por semestre;
 Comparação entre estudantes em estágio e estudantes apenas em aulas;
 Filtros interativos para exploração dos dados.
+
 🔬 Contexto científico
 
 O dashboard foi desenvolvido a partir dos dados de uma pesquisa científica publicada em 2022:
